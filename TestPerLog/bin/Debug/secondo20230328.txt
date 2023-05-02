@@ -1,0 +1,4 @@
+2023-03-28 10:12:42.055 +02:00 [INF] Informazione sei qua: {"MethodName":"button1_Click","IdThread":1,"$type":"MethodInfo"} 
+2023-03-28 10:12:42.091 +02:00 [INF] ciaone test bla bla bla
+2023-03-28 10:12:42.297 +02:00 [INF] Informazione sei qua: {"MethodName":"button1_Click","IdThread":1,"$type":"MethodInfo"} 
+2023-03-28 10:12:42.297 +02:00 [INF] ciaone test bla bla bla

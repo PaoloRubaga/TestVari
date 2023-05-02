@@ -1,0 +1,6 @@
+2023-03-28 12:22:13.577 +02:00 [FTL] log di Fatal
+2023-03-28 12:22:53.856 +02:00 [FTL] log di Fatal
+2023-03-28 12:23:11.955 +02:00 [FTL] log di fatal tasto 2
+2023-03-28 12:23:16.267 +02:00 [FTL] log di fatal tasto 2
+2023-03-28 12:23:17.007 +02:00 [FTL] log di fatal tasto 2
+2023-03-28 12:23:22.841 +02:00 [FTL] log di Fatal

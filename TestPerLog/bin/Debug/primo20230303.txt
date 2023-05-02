@@ -1,0 +1,17 @@
+[09:08:15 INF] Informazione sei qua: {"IdThread":1,"MethodName":"button1_Click","$type":"MethodInfo"} 
+[09:08:15 INF] Informazione sei qua: {"IdThread":1,"MethodName":"button1_Click","$type":"MethodInfo"} 
+[09:08:15 INF] Informazione sei qua: {"IdThread":1,"MethodName":"button1_Click","$type":"MethodInfo"} 
+[09:08:16 INF] Informazione sei qua: {"IdThread":1,"MethodName":"button1_Click","$type":"MethodInfo"} 
+2023-03-03 09:09:43.681 +01:00 [INF] Informazione sei qua: {"IdThread":1,"MethodName":"button1_Click","$type":"MethodInfo"} 
+[2023-03-03 09:18:07.048 INF] Informazione sei qua: MethodInfo { IdThread: 1, MethodName: "button1_Click" } 
+[2023-03-03 09:19:47.925 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-03 09:48:45.084 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-03 09:48:45.107 INF] ciaone test bla bla bla
+[2023-03-03 09:48:45.494 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-03 09:48:45.494 INF] ciaone test bla bla bla
+[2023-03-03 09:48:45.651 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-03 09:48:45.651 INF] ciaone test bla bla bla
+[2023-03-03 09:48:45.830 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-03 09:48:45.830 INF] ciaone test bla bla bla
+[2023-03-03 09:48:45.922 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-03 09:48:45.922 INF] ciaone test bla bla bla

@@ -1,0 +1,26 @@
+[2023-03-28 12:04:06.076 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-28 12:04:06.110 INF] ciaone test bla bla bla
+[2023-03-28 12:04:06.110 WRN] log di warning
+[2023-03-28 12:04:06.112 ERR] log di error
+[2023-03-28 12:04:06.112 FTL] log di Fatal
+[2023-03-28 12:22:13.539 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-28 12:22:13.564 INF] ciaone test bla bla bla
+[2023-03-28 12:22:13.564 WRN] log di warning
+[2023-03-28 12:22:13.566 ERR] log di error
+[2023-03-28 12:22:13.577 FTL] log di Fatal
+[2023-03-28 12:22:53.822 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-28 12:22:53.854 INF] ciaone test bla bla bla
+[2023-03-28 12:22:53.854 WRN] log di warning
+[2023-03-28 12:22:53.856 ERR] log di error
+[2023-03-28 12:22:53.856 FTL] log di Fatal
+[2023-03-28 12:23:11.934 WRN] log di warning tasto 2
+[2023-03-28 12:23:11.955 FTL] log di fatal tasto 2
+[2023-03-28 12:23:16.267 WRN] log di warning tasto 2
+[2023-03-28 12:23:16.267 FTL] log di fatal tasto 2
+[2023-03-28 12:23:17.007 WRN] log di warning tasto 2
+[2023-03-28 12:23:17.007 FTL] log di fatal tasto 2
+[2023-03-28 12:23:22.836 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-28 12:23:22.841 INF] ciaone test bla bla bla
+[2023-03-28 12:23:22.841 WRN] log di warning
+[2023-03-28 12:23:22.841 ERR] log di error
+[2023-03-28 12:23:22.841 FTL] log di Fatal

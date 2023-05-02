@@ -1,0 +1,15 @@
+C:\Project\TestPerLog\SimpleDIDemo\bin\Debug\net6.0\SimpleDIDemo.exe
+C:\Project\TestPerLog\SimpleDIDemo\bin\Debug\net6.0\SimpleDIDemo.deps.json
+C:\Project\TestPerLog\SimpleDIDemo\bin\Debug\net6.0\SimpleDIDemo.runtimeconfig.json
+C:\Project\TestPerLog\SimpleDIDemo\bin\Debug\net6.0\SimpleDIDemo.dll
+C:\Project\TestPerLog\SimpleDIDemo\bin\Debug\net6.0\SimpleDIDemo.pdb
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\SimpleDIDemo.csproj.AssemblyReference.cache
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\SimpleDIDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\SimpleDIDemo.AssemblyInfoInputs.cache
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\SimpleDIDemo.AssemblyInfo.cs
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\SimpleDIDemo.csproj.CoreCompileInputs.cache
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\SimpleDIDemo.dll
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\refint\SimpleDIDemo.dll
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\SimpleDIDemo.pdb
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\SimpleDIDemo.genruntimeconfig.cache
+C:\Project\TestPerLog\SimpleDIDemo\obj\Debug\net6.0\ref\SimpleDIDemo.dll

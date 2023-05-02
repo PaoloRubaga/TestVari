@@ -1,0 +1,18 @@
+2023-03-28 12:04:06.110 +02:00 [WRN] log di warning
+2023-03-28 12:04:06.112 +02:00 [ERR] log di error
+2023-03-28 12:04:06.112 +02:00 [FTL] log di Fatal
+2023-03-28 12:22:13.564 +02:00 [WRN] log di warning
+2023-03-28 12:22:13.566 +02:00 [ERR] log di error
+2023-03-28 12:22:13.577 +02:00 [FTL] log di Fatal
+2023-03-28 12:22:53.854 +02:00 [WRN] log di warning
+2023-03-28 12:22:53.856 +02:00 [ERR] log di error
+2023-03-28 12:22:53.856 +02:00 [FTL] log di Fatal
+2023-03-28 12:23:11.934 +02:00 [WRN] log di warning tasto 2
+2023-03-28 12:23:11.955 +02:00 [FTL] log di fatal tasto 2
+2023-03-28 12:23:16.267 +02:00 [WRN] log di warning tasto 2
+2023-03-28 12:23:16.267 +02:00 [FTL] log di fatal tasto 2
+2023-03-28 12:23:17.007 +02:00 [WRN] log di warning tasto 2
+2023-03-28 12:23:17.007 +02:00 [FTL] log di fatal tasto 2
+2023-03-28 12:23:22.841 +02:00 [WRN] log di warning
+2023-03-28 12:23:22.841 +02:00 [ERR] log di error
+2023-03-28 12:23:22.841 +02:00 [FTL] log di Fatal

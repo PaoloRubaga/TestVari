@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPerLog", "TestPerLog\TestPerLog.csproj", "{B75C8737-E73F-4ED8-AED9-5951B5AD433E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDIDemo", "SimpleDIDemo\SimpleDIDemo.csproj", "{6A4A28A1-1122-4C8E-91F7-527E816131BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75C8737-E73F-4ED8-AED9-5951B5AD433E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75C8737-E73F-4ED8-AED9-5951B5AD433E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75C8737-E73F-4ED8-AED9-5951B5AD433E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75C8737-E73F-4ED8-AED9-5951B5AD433E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4A28A1-1122-4C8E-91F7-527E816131BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4A28A1-1122-4C8E-91F7-527E816131BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4A28A1-1122-4C8E-91F7-527E816131BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4A28A1-1122-4C8E-91F7-527E816131BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E634349-0D13-4753-8F4D-C6DE365808DA}
+	EndGlobalSection
+EndGlobal

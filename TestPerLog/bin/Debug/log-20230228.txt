@@ -1,0 +1,6 @@
+2023-02-28 12:32:52.669 +01:00 [INF] Testo che andrà nel log:
+2023-02-28 11:32:51.476 questo è il log del bottone
+2023-02-28 12:32:54.507 +01:00 [INF] Testo che andrà nel log:
+2023-02-28 11:32:53.503 questo è il log del bottone
+2023-02-28 12:32:56.440 +01:00 [INF] Testo che andrà nel log:
+2023-02-28 11:32:55.531 questo è il log del bottone

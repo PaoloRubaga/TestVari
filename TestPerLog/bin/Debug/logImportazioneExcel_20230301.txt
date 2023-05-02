@@ -1,0 +1,29 @@
+2023-03-01 09:47:55.947 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:56.964 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:57.136 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:57.255 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:57.497 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:57.637 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:57.793 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:58.052 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:58.200 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:58.346 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:58.520 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:58.681 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:58.832 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:47:58.971 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:48:30.003 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:48:30.704 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:48:31.086 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:48:31.250 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:48:31.407 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:48:31.538 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:52:07.382 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:53:57.767 +01:00 [INF] ho cliccato il bottone
+2023-03-01 09:53:57.800 +01:00 [WRN] Yeyo
+2023-03-01 10:21:28.907 +01:00 [INF] ho cliccato il bottone
+2023-03-01 10:21:28.944 +01:00 [WRN] Yeyo
+2023-03-01 10:21:30.935 +01:00 [INF] ho cliccato il bottone
+2023-03-01 10:21:30.935 +01:00 [WRN] Yeyo
+2023-03-01 11:13:36.332 +01:00 [INF] ho cliccato il bottone
+2023-03-01 11:15:56.062 +01:00 [WRN] Yeyo

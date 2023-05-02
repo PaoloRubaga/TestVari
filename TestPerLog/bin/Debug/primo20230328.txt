@@ -1,0 +1,10 @@
+[2023-03-28 10:11:40.955 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-28 10:11:40.991 INF] ciaone test bla bla bla
+[2023-03-28 10:12:42.055 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-28 10:12:42.091 INF] ciaone test bla bla bla
+[2023-03-28 10:12:42.297 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-28 10:12:42.297 INF] ciaone test bla bla bla
+[2023-03-28 10:13:51.032 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-28 10:13:51.058 INF] ciaone test bla bla bla
+[2023-03-28 10:13:51.209 INF] Informazione sei qua: MethodInfo { MethodName: "button1_Click", IdThread: 1 } 
+[2023-03-28 10:13:51.209 INF] ciaone test bla bla bla
