@@ -1,0 +1,15 @@
+C:\Project\TestPerLog\AsyncTask\bin\Debug\net6.0\AsyncTask.exe
+C:\Project\TestPerLog\AsyncTask\bin\Debug\net6.0\AsyncTask.deps.json
+C:\Project\TestPerLog\AsyncTask\bin\Debug\net6.0\AsyncTask.runtimeconfig.json
+C:\Project\TestPerLog\AsyncTask\bin\Debug\net6.0\AsyncTask.dll
+C:\Project\TestPerLog\AsyncTask\bin\Debug\net6.0\AsyncTask.pdb
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\AsyncTask.csproj.AssemblyReference.cache
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\AsyncTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\AsyncTask.AssemblyInfoInputs.cache
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\AsyncTask.AssemblyInfo.cs
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\AsyncTask.csproj.CoreCompileInputs.cache
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\AsyncTask.dll
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\refint\AsyncTask.dll
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\AsyncTask.pdb
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\AsyncTask.genruntimeconfig.cache
+C:\Project\TestPerLog\AsyncTask\obj\Debug\net6.0\ref\AsyncTask.dll

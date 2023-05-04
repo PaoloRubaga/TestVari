@@ -1,0 +1,15 @@
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\ThreadsTest.csproj.AssemblyReference.cache
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\ThreadsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\ThreadsTest.AssemblyInfoInputs.cache
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\ThreadsTest.AssemblyInfo.cs
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\ThreadsTest.csproj.CoreCompileInputs.cache
+C:\Project\TestPerLog\ThreadsTest\bin\Debug\net6.0\ThreadsTest.exe
+C:\Project\TestPerLog\ThreadsTest\bin\Debug\net6.0\ThreadsTest.deps.json
+C:\Project\TestPerLog\ThreadsTest\bin\Debug\net6.0\ThreadsTest.runtimeconfig.json
+C:\Project\TestPerLog\ThreadsTest\bin\Debug\net6.0\ThreadsTest.dll
+C:\Project\TestPerLog\ThreadsTest\bin\Debug\net6.0\ThreadsTest.pdb
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\ThreadsTest.dll
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\refint\ThreadsTest.dll
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\ThreadsTest.pdb
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\ThreadsTest.genruntimeconfig.cache
+C:\Project\TestPerLog\ThreadsTest\obj\Debug\net6.0\ref\ThreadsTest.dll
