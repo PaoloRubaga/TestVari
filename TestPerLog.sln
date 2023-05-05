@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleDIDemo", "SimpleDIDem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadsTest", "ThreadsTest\ThreadsTest.csproj", "{FB562DCF-497F-4196-A7BD-C7C704D83181}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTask", "AsyncTask\AsyncTask.csproj", "{2629A44D-3170-4C97-BBC8-755695700D5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncTask", "AsyncTask\AsyncTask.csproj", "{2629A44D-3170-4C97-BBC8-755695700D5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
